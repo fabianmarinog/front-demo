@@ -1,0 +1,1 @@
+"use strict";$(function(){setTimeout(function(){$(".new-kohls iframe").addClass("visible")},4e3)});
